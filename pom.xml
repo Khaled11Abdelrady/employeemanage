@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>employeemanager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>employeemanager</name>
+	<name>X_ACCOUNTS</name>
 	<description>Employee Manager App</description>
 	<properties>
 		<java.version>17</java.version>
@@ -30,6 +30,7 @@
 			<groupId>com.mysql</groupId>
 			<artifactId>mysql-connector-j</artifactId>
 			<scope>runtime</scope>
+			<version>8.0.31</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
